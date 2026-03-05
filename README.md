@@ -1,5 +1,16 @@
-# 💫 About Me:
-Flutter Developer | Dart Enthusiast  <br>Building scalable cross-platform mobile applications  <br>Firebase | REST APIs | Clean Architecture  <br>learning & improving
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0:00C6FF,100:0072FF&size=28&center=true&vCenter=true&width=600&lines=Flutter+Developer;Dart+Enthusiast;Building+Scalable+Mobile+Apps;Firebase+%7C+REST+APIs+%7C+Clean+Architecture" />
+</h1>
+
+---
+
+## 🚀 About Me  
+
+🌟 <b>Flutter Developer</b> passionate about crafting beautiful & high-performance cross-platform apps  
+💙 <b>Dart Enthusiast</b> with strong fundamentals in OOP & async programming  
+🔥 Experienced with <b>Firebase, REST APIs & Clean Architecture</b>  
+📈 Always learning, improving & building scalable solutions  
+
 
 
 ## 🌐 Socials:
