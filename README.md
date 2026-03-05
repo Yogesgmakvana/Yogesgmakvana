@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0:00C6FF,100:0072FF&size=28&center=true&vCenter=true&width=600&lines=Flutter+Developer;Dart+Enthusiast;Building+Scalable+Mobile+Apps;Firebase+%7C+REST+API+%7C+Clean+Architecture" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=0:00C6FF,100:0072FF&size=28&center=true&vCenter=true&width=900&lines=Flutter+Developer;Dart+Enthusiast;Building+Scalable+Mobile+Apps;Firebase+%7C+REST+APIs+%7C+Clean+Architecture" />
 </h1>
 
 ---
